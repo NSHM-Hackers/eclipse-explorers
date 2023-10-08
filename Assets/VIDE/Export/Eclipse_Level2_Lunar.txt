@@ -1,0 +1,34 @@
+Edit the dialogue on the go.
+You can edit and add comments, edit the tags, and set node type.
+Do not attempt to add more nodes: the number of nodes must match when importing the text file.
+Do not modify the IDs.
+Do not add or remove empty lines.
+Do not restructure the data.
+
+Dialogue name: Eclipse_Level2_Lunar
+---------------------------------
+#NODEID#
+0
+#TAG#
+Moon
+#ISPLAYER#
+False
+---
+#COMMENT#
+A Lunar Eclipse happens when the Earth, comes between the Sun, and me, the Moon. 
+#COMMENT#
+Earth's shadow falls on me, and it can make me appear reddish, a phenomenon often called a Blood Moon!
+---------------------------------
+#NODEID#
+1
+#TAG#
+Earth
+#ISPLAYER#
+False
+---
+#COMMENT#
+Isn’t it fascinating how shadows can create such wonderful events in our cosmic world? 
+#COMMENT#
+Lunar Eclipses are safe to watch with the naked eye and they bring a celestial charm to the night sky!
+---------------------------------
+#END#
